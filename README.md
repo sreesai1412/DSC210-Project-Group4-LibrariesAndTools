@@ -1,7 +1,10 @@
 # Performance Analysis of Libraries and Tools on Linear Algebra Operations
 
-#### **Group number:** 4
-#### **Group members:**
+**Group number:** 4
+
+**Group topic:** Topic 10: Libraries and Tools
+
+**Group members:**
 
 *   Harshil Jain (A59017538)
 *   Sai Sree Harsha (A59020345)
@@ -9,7 +12,23 @@
 *   Omkar Bhope (A59016323)
 
 This repo contains the code for our DSC210 course project. In this project we analyse the performance of 4 different libraries (NumPy, PyTorch, TensorFlow and JAX) on 14 different linear algebra operations. We also compare the performance of these libraries across different hardware (CPU and GPU).
-The linear algebra operations across which we compare 
+The linear algebra operations which we use to conduct our analysis include,
+```
+* Matrix-matrix multiplication
+* Matrix-vector multiplication
+* Vector-vector multiplication
+* Trace
+* Transpose
+* Inverse
+* Determinant
+* Adjoint
+* Cholesky decomposition
+* LU decomposition
+* QR factorization
+* Eigenvalue and Eigenvector computation
+* PCA
+* SVD
+```
 
 ## Requirements
 Ensure that the following libraries are installed in your environment. 
