@@ -44,8 +44,8 @@ Note that all requirements are readily available by default in the Google Colab 
 
 
 ## Performance Analysis on CPU
-The `LinearAlgebraBenchmarkCPU.ipynb` notebook contains our experiments to analyse the performance of different libraries on CPU. In each section of the notebook, we consider a particular linear algebra operation. We implement the operation using each of the 4 libraries, record the execution time for different sizes of input matrices and compare performance by plotting the results.
+The [`LinearAlgebraBenchmarkCPU.ipynb`](https://github.com/sreesai1412/DSC210-Project-Group4-LibrariesAndTools/blob/main/LinearAlgebraBenchmarkCPU.ipynb) notebook contains our experiments to analyse the performance of different libraries on CPU. In each section of the notebook, we consider a particular linear algebra operation. We implement the operation using each of the 4 libraries, record the execution time for different sizes of input matrices and compare performance by plotting the results.
 
 ## Performance Analysis on GPU
-The `LinearAlgebraBenchmarkGPU.ipynb` notebook contains our experiments to analyse the performance of different libraries on GPU. In each section of the notebook, we consider a particular linear algebra operation. We implement the operation using each of the 4 libraries, record the execution time for different sizes of input matrices and compare performance by plotting the results.
+The [`LinearAlgebraBenchmarkGPU.ipynb`](https://github.com/sreesai1412/DSC210-Project-Group4-LibrariesAndTools/blob/main/LinearAlgebraBenchmarkGPU.ipynb) notebook contains our experiments to analyse the performance of different libraries on GPU. In each section of the notebook, we consider a particular linear algebra operation. We implement the operation using each of the 4 libraries, record the execution time for different sizes of input matrices and compare performance by plotting the results.
 
