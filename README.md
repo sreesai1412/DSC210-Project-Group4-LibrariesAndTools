@@ -33,12 +33,13 @@ SVD
 ## Requirements
 Ensure that the following libraries are installed in your environment. 
 ```
-NumPy
-PyTorch
-TensorFlow 
-JAX
-Seaborn
-Matplotlib
+numpy==1.21.6
+torch==1.12.1
+tensorflow==2.9.2
+jax==0.3.25
+seaborn==0.11.2
+matplotlib==3.2.2
+numba==0.56.4
 ```
 Note that all requirements are readily available by default in the Google Colab environment.
 
