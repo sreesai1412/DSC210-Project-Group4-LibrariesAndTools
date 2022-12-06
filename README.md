@@ -43,6 +43,7 @@ tensorflow==2.9.2
 jax==0.3.25
 seaborn==0.11.2
 matplotlib==3.2.2
+pandas==1.3.5
 numba==0.56.4
 ```
 Note that all requirements are readily available by default in the Google Colab environment.
